@@ -1,5 +1,6 @@
 body{
     background: #e4ddc2;
+    transition: background-color 1s;
 }
 .container{
     margin: 150px;
